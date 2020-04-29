@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNGDemo]">
+  <test thread-count="5" name="LoginTest(failed)">
+    <classes>
+      <class name="com.techhelpline.exceptionsdemo.TestNGExceptionHandling">
+        <methods>
+          <include name="testException"/>
+        </methods>
+      </class> <!-- com.techhelpline.exceptionsdemo.TestNGExceptionHandling -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [TestNGDemo] -->

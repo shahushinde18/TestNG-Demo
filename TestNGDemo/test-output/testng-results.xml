@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61641" started-at="2020-04-23T08:56:47Z" finished-at="2020-04-23T08:57:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61641" started-at="2020-04-23T08:56:47Z" finished-at="2020-04-23T08:57:48Z">
+      <class name="com.techhelpline.autoitdemo.AutoITDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.techhelpline.autoitdemo.AutoITDemo@26653222]" name="setup" is-config="true" duration-ms="35719" started-at="2020-04-23T14:26:47Z" finished-at="2020-04-23T14:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uploadFileUsingAutoIT()[pri:0, instance:com.techhelpline.autoitdemo.AutoITDemo@26653222]" name="uploadFileUsingAutoIT" duration-ms="20490" started-at="2020-04-23T14:27:22Z" finished-at="2020-04-23T14:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFileUsingAutoIT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.techhelpline.autoitdemo.AutoITDemo@26653222]" name="tearDown" is-config="true" duration-ms="5320" started-at="2020-04-23T14:27:43Z" finished-at="2020-04-23T14:27:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.techhelpline.autoitdemo.AutoITDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
